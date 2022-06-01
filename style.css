@@ -10,6 +10,7 @@ body {
 }
 .channel {
   overflow: hidden;
+  position: fixed;
   display: flex;
   background-color: #ae012b;
   text-transform: uppercase; /*deixar em caixa alta*/
