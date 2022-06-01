@@ -26,4 +26,5 @@ body {
   overflow: hidden;
   align-items: center;
   color: white;
+  position: fixed;
 }
